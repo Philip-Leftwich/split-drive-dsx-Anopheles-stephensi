@@ -3,7 +3,7 @@
 
 ## Authors
 
-Mireia Larrosa-Godall1,2,6, Joshua X. D. Ang1,2,3, Philip T. Leftwich5, Estela Gonzalez1,4, Lewis Shackleford1,2,3, Katherine Nevard1, Rob Noad6, Michelle A. E. Anderson1,2,3*, Luke Alphey1,2,3*
+Mireia Larrosa-Godall1,2,6, Joshua X. D. Ang1,2,3, Philip T. Leftwich5, Estela Gonzalez1,4, Lewis Shackleford1,2,3, Katherine Nevard1, Rob Noad6, Michelle A. E. Anderson1,2,3 Luke Alphey1,2,3
 
 1 Arthropod Genetics, The Pirbright Institute, Pirbright GU24 0NF, U.K.
 2 Department of Biology, University of York, Wentworth Way, York, YO10 5DD, U.K.
