@@ -1,5 +1,4 @@
-# Development and challenges of aA split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*
-Data and models for "CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector *Culex quinquefasciatus*"
+# Development and challenges of a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*
 
 
 ## Authors
